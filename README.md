@@ -1,1 +1,1 @@
-![Banner](https://raw.githubusercontent.com/GarrettBlackmon/GarrettBlackmon/master/banner.png)
+![Banner](https://raw.githubusercontent.com/GarrettBlackmon/GarrettBlackmon/master/profile-banner.png)
