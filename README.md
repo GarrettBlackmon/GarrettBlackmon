@@ -3,7 +3,6 @@
 # Hello! <img src="https://emoji.slack-edge.com/TB1C3AF1A/party-parrot/f402361e817f5d0d.gif" width="30px">
 My name is Garrett Blackmon and I'm a software developer/front end engineer. I'm from Dothan, AL, living in Birmingham, AL currently working at Yellow Card Financial. Big interest in open source software and community. Reach out and let's grow together!
 
-<br />
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=black&color=0D0727)
