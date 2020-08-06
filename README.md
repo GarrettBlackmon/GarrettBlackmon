@@ -8,7 +8,7 @@ My name is Garrett Blackmon and I'm a software developer/front end engineer. I'm
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=black&color=0D0727)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=0D0727)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=0D0727)
-![](https://img.shields.io/badge/Git-GitKraken-informational?style=flat&logo=GitKraken&color=0D0727)
+![](https://img.shields.io/badge/Git-Git%20Kraken-informational?style=flat&logo=GitKraken&color=0D0727)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=0D0727)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&color=0D0727)
 ![](https://img.shields.io/badge/Framework-Nuxt-informational?style=flat&logo=Nuxt.js&color=0D0727)
